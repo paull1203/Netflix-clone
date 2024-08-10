@@ -9,7 +9,7 @@ body {
 }
 
 .main {
-    background-image: url("bg.jpg");
+    background-image: url("assets/bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100vw;
